@@ -1,0 +1,40 @@
+                   .:                     :,                                          
+,:::::::: ::`      :::                   :::                                          
+,:::::::: ::`      :::                   :::                                          
+.,,:::,,, ::`.:,   ... .. .:,     .:. ..`... ..`   ..   .:,    .. ::  .::,     .:,`   
+   ,::    :::::::  ::, :::::::  `:::::::.,:: :::  ::: .::::::  ::::: ::::::  .::::::  
+   ,::    :::::::: ::, :::::::: ::::::::.,:: :::  ::: :::,:::, ::::: ::::::, :::::::: 
+   ,::    :::  ::: ::, :::  :::`::.  :::.,::  ::,`::`:::   ::: :::  `::,`   :::   ::: 
+   ,::    ::.  ::: ::, ::`  :::.::    ::.,::  :::::: ::::::::: ::`   :::::: ::::::::: 
+   ,::    ::.  ::: ::, ::`  :::.::    ::.,::  .::::: ::::::::: ::`    ::::::::::::::: 
+   ,::    ::.  ::: ::, ::`  ::: ::: `:::.,::   ::::  :::`  ,,, ::`  .::  :::.::.  ,,, 
+   ,::    ::.  ::: ::, ::`  ::: ::::::::.,::   ::::   :::::::` ::`   ::::::: :::::::. 
+   ,::    ::.  ::: ::, ::`  :::  :::::::`,::    ::.    :::::`  ::`   ::::::   :::::.  
+                                ::,  ,::                               ``             
+                                ::::::::                                              
+                                 ::::::                                               
+                                  `,,`
+
+
+https://www.thingiverse.com/thing:2823078
+	Angle bracket (90deg) extrusion aluminium 20x20 (2020) M4 by xmichix is licensed under the GNU - GPL license.
+http://creativecommons.org/licenses/GPL/2.0/
+
+# Summary
+
+Angle bracket 90 deg from
+https://www.thingiverse.com/thing:1826935
+Modify screw holes M5 to M4 for my Anet A6 case.
+Screw : M4 L12mm
+
+# Print Settings
+
+Printer: ANET A6
+Rafts: No
+Supports: No
+Resolution: .2mm
+Infill: 40
+
+Notes: 
+I used PLA for my case. 
+For strong parts use ABS or PETG
